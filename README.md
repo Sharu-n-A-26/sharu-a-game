@@ -12,7 +12,6 @@ Victory or Defeat: Survive the journey, or fall trying!
 🛠 Technologies Used
 Python: Core programming language.
 Random Module: For random events and outcomes.
-Time Module: To add pauses for better pacing.
 Follow the prompts to fight enemies and make decisions!
 📖 Game Walkthrough
 Start the Game: Begin the adventure.
